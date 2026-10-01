@@ -1,0 +1,212 @@
+{
+  "item": {
+    "id": "com.komoridev.tictacgo",
+    "restype": "quick_app",
+    "name": "游击井字棋",
+    "description": "游击井字棋  | 小小棋盘，大大乐趣\n\n一款为小米穿戴设备打造的轻量策略小游戏。抬腕即玩，点按屏幕四向移动，可推单枚棋子。横竖三 O 获胜，三 X 失败，斜线无效",
+    "preview": [
+      "media/cover.png",
+      "media/screenshot1.png",
+      "media/screenshot2.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/cover.png",
+    "author": [
+      {
+        "name": "KomoriDev",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官群",
+      "url": "https://qm.qq.com/q/hEwBtktZq8",
+      "icon": "chat-circle"
+    },
+    {
+      "title": "请杯咖啡",
+      "url": "https://afdian.com/a/komoridev",
+      "icon": "link-simple"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tictacgo.release.1.0.0-xmrw5.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 首次发布"
+        }
+      ]
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tictacgo.release.1.0.0-xmrw5xring.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 首次发布"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tictacgo.release.1.0.0-xmrw6.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 首次发布"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tictacgo.release.1.0.0-xmb10.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 首次发布"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tictacgo.release.1.0.0-xmb10nfc.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 首次发布"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tictacgo.release.1.0.0-xmb10p.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 首次发布"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tictacgo.release.1.0.0-xmb11.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 首次发布"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tictacgo.release.1.0.0-xmb11nfc.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 首次发布"
+        }
+      ]
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tictacgo.release.1.0.0-xmb9.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 首次发布"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tictacgo.release.1.0.0-xmb9p.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 首次发布"
+        }
+      ]
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tictacgo.release.1.0.0-xmws3.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 首次发布"
+        }
+      ]
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tictacgo.release.1.0.0-xmws4xring.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 首次发布"
+        }
+      ]
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tictacgo.release.1.0.0-xmws441.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 首次发布"
+        }
+      ]
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tictacgo.release.1.0.0-xmws4.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 首次发布"
+        }
+      ]
+    },
+    "xmws541": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tictacgo.release.1.0.0-xmws541.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 首次发布"
+        }
+      ]
+    },
+    "xmws5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tictacgo.release.1.0.0-xmws5.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 首次发布"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
